@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html{
+	background: #000;
+	width: 100%
+}
+/*cuerpo*/
+body{
+	background: #000;
+	margin: 0;
+	width: 100%;
+}
+
+.imgun{
+	margin-top: -10%;
+	font-size: 350%;
+	align-items: center;
+	height: 80vh;
+	width: 100%;
+	background-image: url('imagenes/carta.jpg') ;
+	background-blend-mode: soft-light;
+	background-color: rgb(80,80,80);
+	font-family: bebas;
+	padding: 8%;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-size: cover;
+	background-position: center;
+	margin-block-end: 5%;
+
+}
+form{
+
+	width: 80%;
+
+	background: white;
+	color: black;}
+
+.cprs{
+	text-align: center;
+	font-size: 150%;
+	padding-top: 1%;
+	color: #000;
+}
+.copy{
+	text-align: center;
+	background: #525050;
+	width: 100%;
+}
+.copy .icon{
+	color: white;
+	font-size: 150%;
+}
+.titulo{
+	font-family: youngr;
+	font-size: 300%;
+}
+.letra{
+	font-family: Sporterx;
+	font-size: 140%;
+}
+.grandes{
+	font-family: leporsche;
+	font-size: 110%;
+}
+.rest{
+	font-family: santario;
+	font-size: 200%;
+}
+
+
+
+
